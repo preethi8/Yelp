@@ -9,6 +9,7 @@ The dataset has been downloaded from the Yelp dataset challenge website https://
 The Python library-Keras was used to build the Convoluted Neural Network. Several pre-processing techniques such as rotate, flip, rescale etc were used. Grid search for parameter tuning was used to get better results. 
 
 Language Used: Python
+
 Libraries Used:
 1.	h5py: For storing the image data.
 2.	simplejson: For processing the input json file.
