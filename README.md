@@ -20,5 +20,5 @@ Libraries Used:
 Evaluation:
 To evaluate the models and understand the results, Loss and Score metrics were used.
 
-Results
+Results:
 The overall model loss was 20%, giving an effective accuracy of around 80%.
